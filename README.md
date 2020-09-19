@@ -14,9 +14,9 @@ ___
 </h3>
 
 ___
-https://i.imgur.com/GSaA0kCb.gif
+https://i.imgur.com/GSaA0kCs.gif
 
-<div align="center" ><img src="https://i.imgur.com/GSaA0kCb.gif" width="600"></div>
+<div align="center" ><img src="https://i.imgur.com/GSaA0kCs.gif" width="600"></div>
 
 ___
 
