@@ -6,7 +6,7 @@ ___
 ___
 
 
-
+<a href="https://imgur.com/GSaA0kC"><img src="https://i.imgur.com/GSaA0kC.gif" title="source: imgur.com" /></a>
 
 <h3 align="center">
   <a href="#information_source-sobre">Sobre</a>&nbsp;|&nbsp;
