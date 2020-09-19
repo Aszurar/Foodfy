@@ -19,7 +19,7 @@ ___
 ___
 
 
-<div align="center" ><img src="https://i.imgur.com/GSaA0kC.gif" width="600"></div>
+<div align="center" ><img src="https://imgur.com/GSaA0kC" width="600"></div>
 
 ___
 
