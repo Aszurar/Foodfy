@@ -5,9 +5,6 @@ ___
 
 ___
 
-
-<a href="https://imgur.com/GSaA0kC"><img src="https://i.imgur.com/GSaA0kCh.gif" title="source: imgur.com" /></a>
-
 <h3 align="center">
   <a href="#information_source-sobre">Sobre</a>&nbsp;|&nbsp;
   <a href="#interrobang-motivo">Motivo</a>&nbsp;|&nbsp;
@@ -17,9 +14,9 @@ ___
 </h3>
 
 ___
+https://i.imgur.com/GSaA0kCb.gif
 
-
-<div align="center" ><img src="https://i.imgur.com/GSaA0kC.gifv" width="600"></div>
+<div align="center" ><img src="https://i.imgur.com/GSaA0kCb.gif" width="600"></div>
 
 ___
 
