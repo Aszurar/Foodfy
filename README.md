@@ -1,4 +1,4 @@
-# Foodfy
+# Foodfy | LaunchBase
 Foodfy é uma plataforma voltada para culinária que contém receitas, demonstrações e dicas sobre diversos pratos, está sendo criado, atualizado com o passar das fases do curso **Bootcamp LaunchBase da Rocketseat.**
 ___
 <h2 align="center">Foodfy</h2>
